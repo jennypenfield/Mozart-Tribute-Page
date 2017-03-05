@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Lemonada');
+body{
+  color:rgb(179,0,0);
+  margin:auto;
+  max-width:800px;
+  min-width:200px;
+  text-align:justify;
+  background-color:black;
+}
+
+  h1{
+    color: rgb(179,0,0);
+    font-family: Lemonada;
+    font-size:50px;
+  }
+
+  h2{
+    color:rgb(179,0,0);
+    font-family: sans-serif;
+    font-size: 25px;
+  }
+
+ul{
+  color:gray;
+}
+
+  .larger-image {
+    margin:20px;
+    width: 300px;
+  }
+
+  .thin-maroon-border {
+    border-color:rgb(179,0,0);
+    border-radius:20px;
+    border-style:solid;
+    border-width:20px;
+  }
+
+  p{
+    font-family: palatino linotype;
+    font-size:20px;
+  }
+
+  .music-box {
+    border-color:rgb(179,0,0);
+    border-radius:10px;
+    border-style:solid;
+    border-width:5px;
+    font-family: palatino linotype;
+    font-size:20px;
+    width:330px;
+  }
+
+#link{
+  color:gray;
+}
+
+.footer {
+    color:gray;
+    font-family: palatino linotype;
+    font-size:20px;
+}
